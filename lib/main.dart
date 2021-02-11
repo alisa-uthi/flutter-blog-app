@@ -5,6 +5,5 @@ void main() {
   runApp(MaterialApp(
     home: HomeScreen(),
     title: "Blog",
-    debugShowCheckedModeBanner: false,
   ));
 }
